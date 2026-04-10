@@ -31,16 +31,20 @@ FORMULA USED:
 
 Reverse Resistance RR = ΔVR / ΔIR (Ω)
 # CIRCUIT DIAGRAM:
+<img width="829" height="1280" alt="image" src="https://github.com/user-attachments/assets/35768307-9f84-48d0-8010-430752443802" />
 
 
 # TABULAR COLUMN & CALCULATION:
+<img width="1600" height="1263" alt="image" src="https://github.com/user-attachments/assets/fcc0d30e-ef63-4a41-9c90-bb8bbb87d541" />
 
 # MODEL GRAPH:
 <img width="575" height="336" alt="image" src="https://github.com/user-attachments/assets/9d240373-37b1-4ef2-be60-6005ff1770be" />
 
 # GRAPH:
+<img width="984" height="1392" alt="image" src="https://github.com/user-attachments/assets/7a6a2e4d-bb5a-47a7-b7b5-8f5e1bae29e7" />
 
 # RESULT:
+Thus zener didode charecteristics were studied 
 
 
 
